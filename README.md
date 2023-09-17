@@ -2,7 +2,7 @@
 == 
 bootcamp yang aku ikuti
 --
-*list todo bootcamp yang harus tamat before 2023 end*
+*list todo bootcamp yang harus tamat before tahun ini (2023) end*
 - dicoding
 - idcamp
 - courses online harvard
